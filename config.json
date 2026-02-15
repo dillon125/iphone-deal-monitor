@@ -1,0 +1,28 @@
+{
+  "keywords": [
+    "ipad",
+    "iphone",
+    "iphone 15",
+    "iphone 16",
+    "iphone 17",
+    "macbook"
+  ],
+  "enable_craigslist": true,
+  "enable_facebook_marketplace": true,
+  "min_price": 100,
+  "max_price": 2500,
+  "required_keywords": [
+    "sealed",
+    "unlocked",
+    "new"
+  ],
+  "blocked_keywords": [
+    "broken",
+    "icloud",
+    "parts",
+    "cracked"
+  ],
+  "database_path": "listings.db",
+  "request_delay_seconds": 1,
+  "facebook_request_delay_seconds": 2
+}
